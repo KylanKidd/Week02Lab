@@ -19,8 +19,16 @@ public class HelloWorld {
         
          System.out.println("Hello World!");
          
+        int x = 6;
+        for(int i=0; i<x; i++){
+            System.out.println(i);
+        }
+        }
+        
     }
+    
+   
    
     
     
-}
+
